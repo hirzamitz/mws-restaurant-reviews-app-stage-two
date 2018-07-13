@@ -30,7 +30,7 @@ module.exports = function(grunt) {
             quality: 25,
           },
           {
-            width: 400,
+            width: 315,
             suffix: '_small',
             quality: 25,
           }]
