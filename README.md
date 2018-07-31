@@ -37,9 +37,11 @@ The following changes were completed to satisfy the requirements for Stage 2:
     - [x] The application retains accessibility features from the Stage 1 project. Images have alternate text, the application uses appropriate focus management for navigation, and semantic elements and ARIA attributes are used correctly.
 3. Performance
     - [x] Lighthouse targets for each category exceed:
-            Progressive Web App: >90
-            Performance: >70
-            Accessibility: >90
+            Performance: > 70
+            Progressive Web App: > 90
+            Accessibility: > 90
+
+![Lighthouse Report](https://github.com/hirzamitz/mws-restaurant-reviews-app-stage-two-client/blob/master/Lighthouse%20Report.png)
 
 ### Troubleshooting Tips
 
