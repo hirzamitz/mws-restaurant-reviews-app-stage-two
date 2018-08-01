@@ -10,6 +10,8 @@ For the **Restaurant Reviews** projects, you will incrementally convert a static
 3. Cache the JSON responses for offline use by using the IndexedDB API.
 4. Follow the recommendations provided by Lighthouse to achieve the required performance targets.
 
+![Restaurant Reviews App](https://github.com/hirzamitz/mws-restaurant-reviews-app-stage-two-client/blob/master/MWS-Stage-Two.png)
+
 ### What do I do from here?
 
 1. Start up the development server by following the instructions [here](https://github.com/hirzamitz/mws-restaurant-reviews-app-stage-two-server/blob/master/README.md). 
